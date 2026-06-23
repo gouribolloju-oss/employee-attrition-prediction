@@ -1,4 +1,4 @@
-# employee-attrition-prediction
+# Employee-Attrition-Prediction
 Employee attrition prediction using machine learning with feature analysis and model evaluation.
 
 ## Project Overview
